@@ -1,2 +1,2 @@
 # HLSC3P96
-Through Their Eyes 2019 Project
+Through Their Eyes 2019 Mapping Component
